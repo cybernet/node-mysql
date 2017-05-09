@@ -1,0 +1,28 @@
+{
+  "name": "cashi",
+  "version": "0.5.0",
+  "description": "This README would normally document whatever steps are necessary to get your application up and running.",
+  "main": "server.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/cashi/main.git"
+  },
+  "keywords": [
+    "cash",
+    "money",
+    "js",
+    "node",
+    "mysql",
+    "docker"
+  ],
+  "author": "cybernet2u",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/cashi/main#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "mysql": "^2.13.0"
+  }
+}
