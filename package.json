@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/cashi/main.git"
+    "url": "git+ssh://git@github.com:cybernet/node-mysql.git"
   },
   "keywords": [
     "cash",
@@ -20,7 +20,7 @@
   ],
   "author": "cybernet2u",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/cashi/main#readme",
+  "homepage": "https://github.com/cybernet/node-mysql#readme",
   "dependencies": {
     "express": "^4.13.3",
     "mysql": "^2.13.0"
